@@ -5,6 +5,7 @@ First Week JavaScript Concepts.
 - Basic Operators
 - Operators Precedence
 
+Practice Program:
 
 Mark and john are trying to compare their BMI (Body Mass Index which is calculated using the Formula BMI=Mass/heigent**2=Mass/ height *heights. mass in kg and Weight in Meter).
 1.Store marks and John's mass and height in Variables.
