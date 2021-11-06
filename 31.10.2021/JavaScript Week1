@@ -4,3 +4,41 @@ First Week JavaScript Concepts.
 - Let, Constant Var
 - Basic Operators
 - Operators Precedence
+
+
+Mark and john are trying to compare their BMI (Body Mass Index which is calculated using the Formula BMI=Mass/heigent**2=Mass/ height *heights. mass in kg and Weight in Meter).
+1.Store marks and John's mass and height in Variables.
+2.calculate both their BoIS using the formula.
+3. Create a boolean variable 'MarkHigerBMI' Containing information about whether mark was a higher BMP than John.
+
+TEST Data 1: 
+Marks Weights 78 kg and is 1.69 m tall. 
+John Weights 92 kg and is 1.95M tall.
+
+Test data 2:
+Marks Weights 95 kg and is 1.88m tall.
+John Weights 85 kg and is 1.76 m fall
+
+
+Programs
+FOr TEST Data 1I
+Const marksMass =78;
+Const marksHeight =1.69;
+
+Const johnsMass =92;
+Const johnsHeight=1.95;
+const MarksBMI=marksMass/marksHeight *x2;
+const JohnsBMI = Johnsmass/ johnsHeight **2; 
+const marksHigherBMI= (MarksBMI > JOhNSBMI); 
+console. log (MarksBMI, JohnsBMI, marksHigherBMI);
+
+FOr TEST Data 2:
+Const marksMass =95;
+Const marksHeight =1.88;
+
+Const johnsMass =85;
+Const johnsHeight=1.76;
+const MarksBMI=marksMass/marksHeight *x2;
+const JohnsBMI = Johnsmass/ johnsHeight **2; 
+const marksHigherBMI= (MarksBMI > JOhNSBMI); 
+console. log (MarksBMI, JohnsBMI, marksHigherBMI);
